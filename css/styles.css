@@ -1,0 +1,68 @@
+body{
+  background-color: #F6A9A9;
+}
+
+.slogan{
+  font-size: 20px;
+  font-weight: bolder; 
+}
+
+h1{
+  font-size: 80px;
+  font-family: sans-serif;
+  color: #FF4C29 ;
+}
+
+h3{
+  font-size: 30px;
+  color: #52057B;
+}
+
+p{
+  font-family: cursive;
+}
+
+ul{
+  font-family: cursive;
+
+}
+
+hr{
+  border-style: dashed;
+}
+
+.dogs:hover{
+  background-color: gold ;
+  outline-style: dashed;
+  border-color: black ;
+}
+
+.cats:hover{
+  background-color: #BD2000 ;
+  outline-style: dashed;
+  border-color: black ;
+}
+
+.fish:hover{
+  background-color: #E63E6D;
+  outline-style: dashed;
+  border-color: black ;
+}
+
+.food1:hover{
+  background-color: gold ;
+  outline-style: dashed;
+  border-color: black ;
+}
+
+.food2:hover{
+  background-color: #BD2000 ;
+  outline-style: dashed;
+  border-color: black ;
+}
+
+.food3:hover{
+  background-color: #E63E6D;
+  outline-style: dashed;
+  border-color: black ;
+}
